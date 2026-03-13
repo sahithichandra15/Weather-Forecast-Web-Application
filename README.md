@@ -62,7 +62,7 @@ https://openweathermap.org/api
 
 ## Screenshot
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](Screenshot.png)
 
 ## Learning Outcomes
 
