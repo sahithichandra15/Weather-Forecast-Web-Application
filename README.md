@@ -4,6 +4,12 @@ A simple and responsive Weather Forecast Web Application built using HTML, CSS, 
 
 This application allows users to search for any city and instantly view its current weather conditions including temperature, humidity, and wind speed.
 
+## Live Demo
+
+You can try the application here:
+
+https://sahithichandra15.github.io/Weather-Forecast-Web-Application/
+
 ## Features
 
 - Search weather by city name
