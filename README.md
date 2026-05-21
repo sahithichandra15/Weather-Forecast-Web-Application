@@ -10,7 +10,7 @@ You can try the application here:
 
 https://sahithichandra15.github.io/Weather-Forecast-Web-Application/
 
-# Features
+## Features
 
 - Search weather by city name
 - Displays real-time temperature
@@ -22,12 +22,14 @@ https://sahithichandra15.github.io/Weather-Forecast-Web-Application/
 - Responsive UI design
 
 ## Technologies Used
+
 - HTML5 – Structure of the application
 - CSS3 – Styling and layout
 - JavaScript (ES6) – Logic and API integration
 - OpenWeatherMap API – Real-time weather data
 
 ## Project Structure
+
 
 Weather-Forecast-Web-Application
 │
@@ -37,25 +39,26 @@ Weather-Forecast-Web-Application
 ├── Output.png
 │
 └── images
-    ├── clear.png
-    ├── clouds.png
-    ├── drizzle.png
-    ├── humidity.png
-    ├── mist.png
-    ├── rain.png
-    ├── snow.png
-    ├── wind.png
-    └── search.png
+├── clear.png
+├── clouds.png
+├── drizzle.png
+├── humidity.png
+├── mist.png
+├── rain.png
+├── snow.png
+├── wind.png
+└── search.png
+
 
 ## How It Works
 
 - User enters a city name in the search box.
 - The application sends a request to the OpenWeatherMap API.
 - The API returns real-time weather data in JSON format.
-- JavaScript extracts important information such as: 
-    - Temperature 
-    - Humidity 
-    - Wind Speed
+- JavaScript extracts important information such as:
+  - Temperature
+  - Humidity
+  - Wind Speed
 - The UI updates dynamically to display the weather details.
 - If the city name is invalid, an error message is shown.
 
@@ -63,7 +66,8 @@ Weather-Forecast-Web-Application
 
 This project uses the OpenWeatherMap API to retrieve real-time weather data.
 
-Before running the project, replace the API key in script.js with your own key from:
+Before running the project, replace the API key in `script.js` with your own key from:
+
 https://openweathermap.org/api
 
 ## Screenshot
@@ -82,11 +86,6 @@ Through this project I learned:
 - DOM manipulation
 - Error handling in web applications
 - Building responsive UI with CSS
-- Future Improvements
-- Add 5-day weather forecast
-- Detect user location automatically
-- Add more weather conditions icons
-- Improve UI animations
 
 ## Future Improvements
 
