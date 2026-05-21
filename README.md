@@ -30,7 +30,7 @@ https://sahithichandra15.github.io/Weather-Forecast-Web-Application/
 
 ## Project Structure
 
-
+```text
 Weather-Forecast-Web-Application
 │
 ├── index.html
@@ -48,7 +48,7 @@ Weather-Forecast-Web-Application
 ├── snow.png
 ├── wind.png
 └── search.png
-
+```
 
 ## How It Works
 
